@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3,
+    "name": "Medical College Hospital",
+    "patient_count": 10000000,
+    "location": "TVM"
+  },
+  {
+    "id": 4,
+    "name": "SN  Hospital",
+    "patient_count": 900,
+    "location": "Pothencde"
+  },
+  {
+    "id": 5,
+    "name": "AJ Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  },
+  {
+    "id": 6,
+    "name": "JP Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  },
+  {
+    "id": 7,
+    "name": "Ahalya Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  },
+  {
+    "id": 8,
+    "name": "SR Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  },
+  {
+    "id": 9,
+    "name": "Bitals Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  },
+  {
+    "id": 10,
+    "name": "Jithu  Hospital",
+    "patient_count": 67889,
+    "location": "TVM"
+  }
+]
